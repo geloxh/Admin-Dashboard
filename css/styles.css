@@ -18,3 +18,29 @@
     --one-use-color: #3f0097;
     --two-use-color: #5500cb;
 }
+
+body {
+    background-color: var(--background-color4);
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+header {
+    height: 70px;
+    width: 100vw;
+    padding: 0 30px;
+    background-color: var(--background-color1);
+    position: fixed;
+    z-index: 100;
+    box-shadow: 1px 1px 15px rgba(161, 182, 253, 0.825);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 27px;
+    font-weight: 600;
+    color: rgb(47, 141, 70);
+}
+
