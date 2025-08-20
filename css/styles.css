@@ -13,12 +13,12 @@
     --background-color1: #fafaff;
     --background-color2: #ffffff;
     --background-color3: #ededed;
-    --background-color4: #cad7fda4;
-    --primary-color: #4b49ac;
-    --secondary-color: #0c007d;
-    --Border-color: #3f0097;
-    --one-use-color: #3f0097;
-    --two-use-color: #5500cb;
+    --background-color4: #59ecd4a4;
+    --primary-color: #49ac86;
+    --secondary-color: #007d4d;
+    --Border-color: #105c2d;
+    --one-use-color: #009771;
+    --two-use-color: #00cb8e;
 }
 
 body {
@@ -306,14 +306,14 @@ header {
 .recent-Articles {
     font-size: 30px;
     font-weight: 600;
-    color: #5500cb;
+    color: #c2e4da;
 }
 
 .view {
     height: 35px;
     width: 90px;
     border-radius: 8px;
-    background-color: #5500cb;
+    background-color: #00cb8e;
     color: white;
     font-size: 15px;
     border: none;
